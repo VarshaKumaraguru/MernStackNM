@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Success Progression System
 
 A MERN stack application for tracking and managing student academic progress and success.
@@ -86,3 +87,6 @@ student_succession/
 
 ## License
 MIT 
+=======
+# MernStackNM
+>>>>>>> de98ea89347b9b2f41d916d7255c2ac49b495489
